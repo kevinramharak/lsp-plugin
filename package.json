@@ -1,5 +1,11 @@
 {
+  "scripts": {
+    "build": "tsc plugin.ts --lib ES2020"
+  },
   "dependencies": {
     "typescript": "^4.2.3"
+  },
+  "devDependencies": {
+    "@types/node": "^14.14.31"
   }
 }

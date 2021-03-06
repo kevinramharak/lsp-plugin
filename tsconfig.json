@@ -1,5 +1,7 @@
 {
   "compilerOptions": {
+    "strict": true,
+    "noImplicitAny": true,
     "plugins": [
       {
         "name": "plugin"

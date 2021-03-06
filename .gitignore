@@ -1,5 +1,4 @@
 # Node
-node_modules/.bin
-node_modules/.package-lock.json
-node_modules/typescript
+node_modules
+!node_modules/plugin
 package-lock.json
